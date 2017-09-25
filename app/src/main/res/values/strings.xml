@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RadYou</string>
+    <string name="title">Tu Radio App</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="description">Tu Radio en Internet</string>
+
+    <string name="streaming_source_01">http://158.69.26.181:8050/AM750_AAC</string>
+    <string name="streaming_source_02">http://fmvida.radio.rosario3.com:8000/;</string>
+    <string name="streaming_source_03">http://200.58.106.247:8626/;</string>
+    <string name="streaming_source_04">http://fmplus.radio.rosario3.com:8000/fmplus</string>
+    <string name="streaming_source_05">http://streaming.tudns7.info:8012/;</string>
+    <string name="btn_play_desc">Botón de pausa y reprodución de radio</string>
+</resources>
